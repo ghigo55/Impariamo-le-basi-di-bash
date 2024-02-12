@@ -30,7 +30,7 @@ Ecco una breve descrizione degli esercizi inclusi nella repository:
 
 Ricorda che mentre pratichi con questi esercizi, è importante capire i concetti di base di Bash come variabili, cicli, condizioni e l'utilizzo di comandi di sistema come echo, read, if, for, while, ls, cp, mv, rm e molti altri. Buona fortuna e divertiti a sperimentare con lo scripting in Bash! 🚀👨‍💻*
 
-- 🤝 **Scopo** della repository Questa repository è stata creata per condividere con voi alcuni esercizi e script che mi hanno aiutato a imparare le basi dello scripting in BASH. Qui troverete una serie di script che ho sviluppato e utilizzato per automatizzare operazioni comuni e complesse su sistemi Linux. Spero che questi esercizi possano essere utili anche a voi nell'apprendimento e nell'approfondimento delle conoscenze su BASH scripting.
+- 🤝 **Scopo** della repository Questa repository è stata creata per condividere con voi alcuni esercizi e script che mi hanno aiutato a imparare le basi dello scripting in BASH. Spero che questi esercizi possano essere utili anche a voi nell'apprendimento e nell'approfondimento delle conoscenze su BASH scripting.
 
 - 💬 **Contributi** Se siete interessati a contribuire a questa repository, siete i benvenuti! Sentitevi liberi di inviare pull request con nuovi script, miglioramenti o correzioni. Insieme possiamo creare una risorsa sempre più utile per la community degli appassionati di scripting in BASH. Grazie per visitare questa repository e buon scripting! 🚀👨‍💻
 - 📫 Come contattarmi **gabrielemormina05@gmail.com**
