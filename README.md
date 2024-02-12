@@ -28,16 +28,11 @@ Ecco una breve descrizione degli esercizi inclusi nella repository:
 
     Stampa il conteggio delle righe di un file: Scrivi uno script che stampi il conteggio delle righe di un file specificato dall'utente.
 
-Ricorda che mentre pratichi con questi esercizi, è importante capire i concetti di base di Bash come variabili, cicli, condizioni e l'utilizzo di comandi di sistema come echo, read, if, for, while, ls, cp, mv, rm e molti altri. Buona fortuna e divertiti a sperimentare con lo scripting in Bash! 🚀👨‍💻*
+Ricorda che mentre pratichi con questi esercizi, è importante capire i concetti di base di Bash come variabili, cicli, condizioni e l'utilizzo di comandi di sistema come echo, read, if, for, while, ls, cp, mv, rm e molti altri. Buona fortuna e divertiti a sperimentare con lo scripting in Bash! 🚀👨‍💻
 
-- 🤝 **Scopo** della repository Questa repository è stata creata per condividere con voi alcuni esercizi e script che mi hanno aiutato a imparare le basi dello scripting in BASH. Spero che questi esercizi possano essere utili anche a voi nell'apprendimento e nell'approfondimento delle conoscenze su BASH scripting.
+- 🤝 **Scopo** Questa repository è stata creata per condividere con voi alcuni esercizi e script che mi hanno aiutato a imparare le basi dello scripting in BASH. Spero che questi esercizi possano essere utili anche a voi nell'apprendimento e nell'approfondimento delle conoscenze su BASH scripting.
 
 - 💬 **Contributi** Se siete interessati a contribuire a questa repository, siete i benvenuti! Sentitevi liberi di inviare pull request con nuovi script, miglioramenti o correzioni. Insieme possiamo creare una risorsa sempre più utile per la community degli appassionati di scripting in BASH. Grazie per visitare questa repository e buon scripting! 🚀👨‍💻
 - 📫 Come contattarmi **gabrielemormina05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
